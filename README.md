@@ -16,6 +16,15 @@ Full stack developer focused on applied AI. I take AI from prototype to producti
 
 The MedVetor code is private. Happy to walk through the architecture in an interview.
 
+## Open source
+
+| Project | What it shows |
+|---|---|
+| [pdf-rag-chat](https://github.com/leonardo-carnevalli/pdf-rag-chat) | RAG over PDFs with page citations and a refusal when the answer is not in the documents. FastAPI, Next.js, OpenAI or local Ollama, with a retrieval eval |
+| [marketplace-listing-agent](https://github.com/leonardo-carnevalli/marketplace-listing-agent) | LLM agent that drafts, critiques and revises marketplace listings, plus an exact pricing engine. Python, Pydantic, 100% test coverage |
+| [reels-factory](https://github.com/leonardo-carnevalli/reels-factory) | CLI that records a real website with Playwright and edits a vertical Reel with ffmpeg from a YAML script |
+| [financiai](https://github.com/leonardo-carnevalli/financiai) | Personal finance app that understands phrases like "50 padaria". Next.js, SQLite, AI classification with a rule-based fallback |
+
 ## Stack
 
 **Development:** TypeScript, JavaScript, Python, SQL, Next.js, React, Node.js, Tailwind CSS, REST APIs
