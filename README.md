@@ -24,6 +24,9 @@ The MedVetor code is private. Happy to walk through the architecture in an inter
 | [marketplace-listing-agent](https://github.com/leonardo-carnevalli/marketplace-listing-agent) | LLM agent that drafts, critiques and revises marketplace listings, plus an exact pricing engine. Python, Pydantic, 100% test coverage |
 | [reels-factory](https://github.com/leonardo-carnevalli/reels-factory) | CLI that records a real website with Playwright and edits a vertical Reel with ffmpeg from a YAML script |
 | [financiai](https://github.com/leonardo-carnevalli/financiai) | Personal finance app that understands phrases like "50 padaria". Next.js, SQLite, AI classification with a rule-based fallback |
+| [hand-gesture-3d](https://github.com/leonardo-carnevalli/hand-gesture-3d) | Control a 3D scene with your hand through the webcam. MediaPipe hand tracking, One Euro filter and a tested gesture engine, all in the browser |
+| [pose-rep-counter](https://github.com/leonardo-carnevalli/pose-rep-counter) | Webcam rep counter with form cues. Pose estimation, joint angles and hysteresis state machines, with measured accuracy under noise |
+| [web-ar-placement](https://github.com/leonardo-carnevalli/web-ar-placement) | Place 3D objects on a real table from a web page: WebXR on Android, AR Quick Look on iPhone |
 
 ## Stack
 
